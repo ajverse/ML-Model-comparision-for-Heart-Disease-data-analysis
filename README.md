@@ -5,5 +5,3 @@ comparative study and analysis using classification algorithms.
 A set of ML algorithms such as Support Vector Machines (SVM), K-Nearest Neighbour (KNN), NAVIE BAYES (NB), RANDOM FOREST, and LOGISTIC REGRESSION will be deployed 
 for the prediction of heart disease followed by performance evaluation and analysis of the chosen algorithms to identify the optimal technique with the 
 highest accuracy.
-
-Project 2# ETL pipelining project for PostgreSQL Database using Python --
